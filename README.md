@@ -225,3 +225,4 @@ Check out the [Contributing Guideline](./CONTRIBUTING.md).
 
 See [Releases](https://github.com/cypress-io/cypress-example-kitchensink/releases).
 
+
