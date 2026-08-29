@@ -214,3 +214,7 @@ You will also need to have an account with the CI provider you want to test with
 ## Contributing
 
 Check out the [Contributing Guideline](./CONTRIBUTING.md).
+
+## Changelog
+
+See [Releases](https://github.com/cypress-io/cypress-example-kitchensink/releases).
